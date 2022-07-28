@@ -141,7 +141,15 @@
   
   }
   
-  .card{
-    padding-left: 300px;
+  .top{
+    text-align: center;
+    font-weight: bold;
+    text-decoration:underline;
+    color: brown;
   }
+
   
+
+  .rowdiv p{
+    text-align: center;
+    color: azure;
